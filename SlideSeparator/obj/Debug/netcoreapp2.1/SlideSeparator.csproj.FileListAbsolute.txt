@@ -1,0 +1,11 @@
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\bin\Debug\netcoreapp2.1\SlideSeparator.deps.json
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\bin\Debug\netcoreapp2.1\SlideSeparator.runtimeconfig.json
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\bin\Debug\netcoreapp2.1\SlideSeparator.runtimeconfig.dev.json
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\bin\Debug\netcoreapp2.1\SlideSeparator.dll
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\bin\Debug\netcoreapp2.1\SlideSeparator.pdb
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\obj\Debug\netcoreapp2.1\SlideSeparator.csprojAssemblyReference.cache
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\obj\Debug\netcoreapp2.1\SlideSeparator.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\obj\Debug\netcoreapp2.1\SlideSeparator.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\obj\Debug\netcoreapp2.1\SlideSeparator.AssemblyInfo.cs
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\obj\Debug\netcoreapp2.1\SlideSeparator.dll
+C:\Users\test\Desktop\SlideSeparator\SlideSeparator\SlideSeparator\obj\Debug\netcoreapp2.1\SlideSeparator.pdb
